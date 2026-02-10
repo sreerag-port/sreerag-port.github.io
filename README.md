@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+
 <html>
   <head>
     <title>Sree's Website</title>
@@ -9,7 +10,7 @@
   <h1> Hello!! </h1>
   <p> this is my first website after a long while</p>
 
-  <img src="GulfImage1" alt="Gulf A" width="300">
+  <img src="GulfImage1" alt="Gulf A" width="600">
   
 </body>
   
